@@ -1,9 +1,9 @@
-# homebrew-qrow
+# homebrew-rowq
 
-Homebrew tap for [qrow](https://github.com/denisotree/qrow) — https://qrow.dev
+Homebrew tap for [rowq](https://github.com/denisotree/rowq) — https://rowq.dev
 
 ```sh
-brew install denisotree/qrow/qrow
+brew install denisotree/rowq/rowq
 ```
 
-tuitab, which qrow continues, has its own tap: `denisotree/tuitab` (0.11.1).
+tuitab, which rowq continues, has its own tap: `denisotree/tuitab` (0.11.1).
